@@ -1,0 +1,6 @@
+environment:
+  url:
+    dev: 'https://portal.vr.com.br/api-web/comum/enumerations/VRPAT'
+    prd: 'https://portal.vr.com.br/api-web/comum/enumerations/VRPAT'
+    uat: 'https://portal.vr.com.br/api-web/comum/enumerations/VRPAT' 
+

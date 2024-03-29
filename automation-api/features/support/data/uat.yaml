@@ -1,0 +1,11 @@
+content_type: TODO
+code:
+  ok: 200
+  created: 201
+  bad_request: 400
+  internal_server_error: 500
+
+array_simbolos:
+  tipo01: ["#", "!"]
+  tipo02: ["%", "!"] 
+  tipo03: ["&", "*", "%", "!"]  

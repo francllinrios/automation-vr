@@ -1,0 +1,20 @@
+# Arquivos temporários
+*.swp
+*.bak
+*.DS_Store
+
+# Logs
+log/
+tmp/
+
+# Dependências
+/vendor/
+Gemfile.lock
+
+# Configuração local
+/config/database.yml
+/config/application.yml
+
+# Arquivos HTML e json
+*.html
+*.json
