@@ -56,5 +56,5 @@ Para **Remover as images se necessário**
 Para **executar os testes**
 
 ```bash
-docker run --rm --network host -v ~/.Xauthority:/root/.Xauthority:ro -e DISPLAY --entrypoint /bin/sh -it qa_fare -c 'npm run cypress:run'
+docker run --rm --network host -v ~/.Xauthority:/root/.Xauthority:ro -e DISPLAY --entrypoint /bin/sh -it automation_vr -c 'npm run cypress:run'
 ```
